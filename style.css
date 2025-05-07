@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background: linear-gradient(135deg, var(--light-gray));
+  background: var(--light-gray);
   text-align: center;
   padding: 60px 20px;
   img {
@@ -54,6 +54,7 @@ header {
 
 .steps {
   border-top:1px dashed gray;
+  margin: 30px 210px;
 }
 
 .step {
@@ -87,6 +88,7 @@ header {
   gap: 30px;
   margin-top: 40px;
   margin-bottom: 40px;
+  margin: 30px 210px;
 }
 
 .reviews h2 {
